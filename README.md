@@ -214,11 +214,11 @@ styled_output
 
 **Anand Vekariya**
 
-📧 **Email:** [[yourname@email.com](mailto:yourname@email.com)]
+📧 **Email:** [[anand.d.vekariya@gmail.com](mailto:anand.d.vekariya@gmail.com)]
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/anandvekariya](https://www.linkedin.com/in/anandvekariya)
+💼 **LinkedIn:** [Anand Vekariya](https://www.linkedin.com/in/anand-vekariya/)
 
-🌐 **Portfolio:** [https://anandvekariya.netlify.app](https://anandvekariya.netlify.app)
+<!-- 🌐 **Portfolio:** [https://anandvekariya.netlify.app](https://anandvekariya.netlify.app) -->
 
 ---
 
